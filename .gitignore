@@ -1,0 +1,12 @@
+# Visual Studio data
+*.opensdf
+*.sdf
+*.suo
+*.user
+*.aps
+
+# binary outputs
+x64/
+Win32/
+ipch/
+Debug/
